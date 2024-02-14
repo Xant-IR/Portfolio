@@ -52,10 +52,10 @@ The Patient Management Application is developed using the following technologies
 ## Screenshots
 Here are some screenshots of the Patient Management Application:
 
-2. **Main Form**<br/>
+1. **Main Form**<br/>
    <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/01.PatientManagementApplication/screenshots/main.png"/>
 
-1. **Appointment Form**
+2. **Appointment Form**
   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/01.PatientManagementApplication/screenshots/appointment.png"/> <br/>
 
 3. **Payments List**<br/>
