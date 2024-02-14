@@ -85,3 +85,30 @@ The Personal Website is developed using the following technologies:
 ## Screenshots
 
 Here are some screenshots of the Personal Website:
+
+1. **Database Diagram**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/db-diagram.png"/>
+
+2. **About Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/front-about.png"/>
+
+3. **Blog Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/front-blog.png"/>
+
+4. **Home Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/front-home.png"/>
+
+5. **Progress Bars - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/front-progressbars.png"/>
+   
+6. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/panel-dashboard.png"/>
+
+7. **Single Post View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/panel-post-single.png"/>
+
+8. **Posts Management - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/panel-posts.png"/>
+
+9. **Progress Bars Management - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/01.Personal%20Website/screenshots/panel-progressbars.png"/>
