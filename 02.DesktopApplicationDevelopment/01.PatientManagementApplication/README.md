@@ -39,4 +39,30 @@ The Patient Management Application utilizes a SQL database with the following sc
 
 Reporting functionality in the Patient Management Application is powered by Stimulsoft Reports, providing users with powerful tools for creating and customizing reports to analyze clinic performance and patient data.
 
+## Used Technologies
+
+The Patient Management Application is developed using the following technologies:
+
+- **Programming Language:** C#
+- **Application Type:** Windows Forms
+- **Database Management System:** SQL Server
+- **Reporting Tool:** Stimulsoft Reports
+- **Other Technologies:** .NET Framework
+
 ## Screenshots
+Here are some screenshots of the Patient Management Application:
+
+2. **Main Form**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/01.PatientManagementApplication/screenshots/main.png"/>
+
+1. **Appointment Form**
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/01.PatientManagementApplication/screenshots/appointment.png"/> <br/>
+
+3. **Payments List**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/01.PatientManagementApplication/screenshots/payment.png"/>
+
+4. **Patient Record Creation**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/01.PatientManagementApplication/screenshots/record.png"/>
+
+5. **Adding Services**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/01.PatientManagementApplication/screenshots/service.png"/>
