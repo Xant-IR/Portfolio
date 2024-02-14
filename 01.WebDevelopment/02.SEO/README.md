@@ -29,6 +29,7 @@ Established in 1390 in Isfahan, Naghsh Abrang began its journey in graphic desig
 * Industrial Photography
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/02.SEO/screenshots/n-abrang-com.png"/>
 
 
 ## Project 2: Milad Tools
@@ -43,6 +44,7 @@ The expertise of Milad Tools' personnel in selecting welding equipment has turne
 Throughout the year, the technical experts of this store visit factories and industries during industrial trips, selecting the appropriate type of materials and providing proper usage guidance and training on tool application. This has not only made Milad Tools known in Iran but has also brought its name to professionals in welding and cutting fields in some countries in the region. In some industries in Turkey, professionals rely on Milad Tools' experts for selecting welding and cutting materials and techniques.
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/02.SEO/screenshots/miladtools-ir.png"/>
 
 
 ## Project 3: Mellat Sang
@@ -57,6 +59,7 @@ The primary goal of Mellat Sang is to first seek the satisfaction of the Almight
 **Products:** Mellat Sang is currently engaged in the production of various travertine types, including: Abbasabad Cream and White, Azarshahr Red, Takab Black, Takab Silver, Azarshahr Lemon, Azarshahr Jungle, Yazd Chocolate, available in both wavy and non-wavy varieties.
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/02.SEO/screenshots/mellatsang-ir.png"/>
 
 
 ## Project 4: Bazaar Sang
@@ -72,6 +75,7 @@ Given the pivotal role of building stones in defining the aesthetics and durabil
 In response to the current market demands and to facilitate stone exports, Bazaar Sang has established a specialized parent company dedicated to importing and exporting building stones. This entity handles all export procedures efficiently, ensuring timely delivery to specified destinations. With a commitment to quality and customer satisfaction, Bazaar Sang continues to be a trusted partner in the construction industry.
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/02.SEO/screenshots/bazaarsang-com.png"/>
 
 
 ## Project 5: Paya Kiseh
@@ -85,4 +89,5 @@ Paya Kiseh is a manufacturing company based in Isfahan, operating in a conducive
 Equipped with suitable machinery and a focus on efficient production and quality, Paya Kiseh takes significant steps in the packaging sector. With a commitment to continuous improvement and customer satisfaction, the company remains responsive to inquiries, providing detailed information about its products and services.
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/02.SEO/screenshots/payakiseh-com.png"/>
 
