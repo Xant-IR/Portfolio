@@ -69,3 +69,20 @@ The Accounting System Application is developed using the following technologies:
 - **Other Technologies:** .NET Framework, DevComponents.DotNetBar
 
 ## Screenshots
+
+Here are some screenshots of the Accounting System Application:
+
+1. **Main Form**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/02.AccountingSystemApplication/screenshots/main.png"/>
+
+2. **Product Form**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/02.AccountingSystemApplication/screenshots/product.png"/>
+
+3. **Contact List**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/02.AccountingSystemApplication/screenshots/contact.png"/>
+
+4. **Sales Invoices List**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/02.AccountingSystemApplication/screenshots/sales-invoice.png"/>
+
+5. **Income List**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/02.DesktopApplicationDevelopment/02.AccountingSystemApplication/screenshots/income.png"/>
