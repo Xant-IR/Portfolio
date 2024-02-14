@@ -27,6 +27,7 @@ WordPress Website Design for the consulting institution, "Bonyade Movafaghiat," 
 Bonyade Movafaghiat is an educational institution dedicated to success and acquiring life skills. This institution consists of sections such as "Zero Attraction Group," "Habit Academy," "Success Media," "Educational Courses," and a collection of educational articles.
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/01.WordPress/screenshots/bonyade-movafaghiat-com.png"/>
 
 
 ## Project 3: Anbari24
@@ -37,6 +38,7 @@ WordPress Website Design for Anbari24 Online Store, featuring product sales with
 Anbari24 is a 24-hour online store ready to provide services and sell various products, especially English language books. This website utilizes one of the best available e-commerce templates and has undergone significant speed and SEO optimizations. Moreover, custom designs and images have been incorporated into its construction to differentiate it from other online stores.
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/01.WordPress/screenshots/anbari24-com.png"/>
 
 
 ## Project 4: Ranco
@@ -51,3 +53,4 @@ With a focus on artistic expression and cutting-edge technology, Ranco continues
 Ranco Art Group, established in 2003, has been at the forefront of the creative industry for over two decades. Specializing in graphic design, advertising, and magazine printing, Ranco has expanded its services to include advertising, film, animation, and game development. With a commitment to excellence and innovation, Ranco continues to redefine the boundaries of creativity and set new standards in the industry.
 
 ### Screenshot:
+<img src="https://github.com/Xant-IR/Portfolio/blob/main/01.WebDevelopment/01.WordPress/screenshots/ranco-ir.png"/>
