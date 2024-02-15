@@ -64,3 +64,32 @@ The Personal Portfolio Website is developed using the following technologies:
 
 Here are some screenshots of the Personal Portfolio Website:
 
+1. **Database Diagram**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/db-diagram.png"/>
+
+2. **Home Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/front-home.png"/>
+
+3. **About Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/front-about.png"/>
+
+4. **Resume Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/front-resume.png"/>
+
+5. **Portfolio Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/front-portfolio.png"/>
+
+6. **Contact Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/front-contact.png"/>   
+
+7. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/panel-dashboard.png"/>
+
+8. **Single Resume View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/panel-resume-single.png"/>
+
+9. **Single Portfolio View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/panel-portfolio-single.png"/>
+
+10. **Single Skill View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/02.PersonalPortfolioWebsite/screenshots/panel-skill-single.png">
