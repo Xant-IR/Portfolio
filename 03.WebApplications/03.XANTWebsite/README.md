@@ -92,3 +92,17 @@ The XANT Website is developed using the following technologies:
 
 Here are some screenshots of the XANT Website:
 
+1. **Database Diagram**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/03.XANTWebsite/screenshots/db-diagram.png"/>
+
+2. **Home Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/03.XANTWebsite/screenshots/front-main.png"/>
+
+3. **Portfolio Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/03.XANTWebsite/screenshots/front-portfolio.png"/>
+
+4. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/03.XANTWebsite/screenshots/panel-dashboard.png"/>
+
+5. **Single Portfolio View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/03.XANTWebsite/screenshots/panel-post-single.png"/>
