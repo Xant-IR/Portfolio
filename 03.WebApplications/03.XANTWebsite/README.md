@@ -8,15 +8,6 @@ This project involves the development of an online digital agency website cateri
 - **Contact Form Integration:** Seamlessly integrates a contact form for client inquiries and messages, ensuring effective communication by securely storing submissions.
 - **Portfolio Showcase with Categorization:** Showcases the company's portfolio, categorized for easy navigation, allowing visitors to explore projects by category and highlighting the company's expertise.
 
-
-## Key Highlights
-
-- Developed an online digital agency website, serving the Iranian market with a comprehensive range of digital services.
-- Developed a user-centric, responsive website for easy access to services, portfolios, and information, ensuring optimal user experience.
-- Included a portfolio showcase to highlight past projects and demonstrate the quality of work.
-- Integrated interactive elements such as contact forms and social media links to enhance user engagement.
-- Optimized performance for fast loading times and improved SEO rankings.
-
 ## Key Highlights
 
 - Developed an online digital agency website, serving the Iranian market with a comprehensive range of digital services.
