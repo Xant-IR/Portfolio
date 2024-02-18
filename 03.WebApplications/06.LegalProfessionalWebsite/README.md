@@ -67,3 +67,9 @@ The Legal Professional Website is developed using the following technologies:
 ## Screenshots
 
 Here are some screenshots of the Legal Professional Website:
+
+1. **Home Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/06.LegalProfessionalWebsite/screenshots/front-home.png"/>
+
+5. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/06.LegalProfessionalWebsite/screenshots/panel-dashboard.png"/>
