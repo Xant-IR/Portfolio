@@ -80,3 +80,21 @@ The Tour Reservation Website is developed using the following technologies:
 ## Screenshots
 
 Here are some screenshots of the Tour Reservation Website:
+
+1. **Home Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/05.TourReservationWebsite/screenshots/front-home.png"/>
+
+2. **Tours Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/05.TourReservationWebsite/screenshots/front-tours.png"/>
+
+3. **Single Tour Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/05.TourReservationWebsite/screenshots/front-tours-single.png"/>
+
+4. **Tour Reservation Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/05.TourReservationWebsite/screenshots/front-tours-reservation.png"/>
+
+5. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/05.TourReservationWebsite/screenshots/panel-dashboard.png"/>
+
+6. **Single Tour View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/05.TourReservationWebsite/screenshots/panel-tours-single.png"/>
