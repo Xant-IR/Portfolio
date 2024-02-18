@@ -75,3 +75,20 @@ The TilaWoods Company Website is developed using the following technologies:
 
 Here are some screenshots of the TilaWoods Company Website:
 
+1. **Home Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/04.TilaWoodsCompanyWebsite/screenshots/front-home.png"/>
+
+2. **Portfolio Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/04.TilaWoodsCompanyWebsite/screenshots/front-portfolio.png"/>
+
+3. **Color Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/04.TilaWoodsCompanyWebsite/screenshots/front-colors.png"/>
+
+4. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/03.XANTWebsite/screenshots/panel-dashboard.png"/>
+
+5. **Single Portfolio View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/04.TilaWoodsCompanyWebsite/screenshots/panel-portfolio-single.png"/>
+
+5. **Single Color View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/04.TilaWoodsCompanyWebsite/screenshots/panel-color-single.png"/>
