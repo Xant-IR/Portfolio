@@ -117,3 +117,26 @@ The  Batalent Startup Platform is developed using the following technologies:
 
 Here are some screenshots of the Batalent Startup Platform:
 
+1. **Home Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/front-home.png"/>
+
+2. **Single Business Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/front-businesses-single.png"/>
+
+3. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/admin-panel-dashboard.png"/>
+
+4. **Media Gallery - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/admin-panel-mediagallery.png"/>
+
+5. **Single Grid Item View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/admin-panel-griditem.png"/>
+
+6. **Manual Business Registration - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/admin-user-registration.png"/>
+
+7. **Dashboard - Business Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/business-panel-dashboard.png"/>
+
+8. **Media Items View - Business Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/07.BatalentStartupPlatform/screenshots/business-panel-media.png"/>
