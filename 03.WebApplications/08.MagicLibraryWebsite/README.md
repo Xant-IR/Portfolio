@@ -109,3 +109,23 @@ The  Magic Library Website is developed using the following technologies:
 
 Here are some screenshots of the Magic Library Website:
 
+1. **Main Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/08.MagicLibraryWebsite/screenshots/front-main.png"/>
+
+2. **Products Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/08.MagicLibraryWebsite/screenshots/front-products.png"/>
+
+3. **Single Product Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/08.MagicLibraryWebsite/screenshots/front-products-single.png"/>
+
+4. **Shopping Cart Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/08.MagicLibraryWebsite/screenshots/front-cart.png"/>
+
+5. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/08.MagicLibraryWebsite/screenshots/admin-panel-dashboard.png"/>
+
+6. **Product Creation View - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/08.MagicLibraryWebsite/screenshots/admin-panel-products-single.png"/>
+
+7. **Dashboard - Customer Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/08.MagicLibraryWebsite/screenshots/customer-panel-dashboard.png"/>
