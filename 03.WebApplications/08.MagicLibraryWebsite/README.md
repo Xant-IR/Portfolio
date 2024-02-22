@@ -36,7 +36,6 @@ The Magic Library Website is a robust e-commerce platform developed to specializ
 
 - **Settings:** Allows for easy management of configuration settings to tailor the platform according to specific needs.
 
-
 ## Key Highlights
 
 - Utilized a structured layered architecture including Core, MVC, and Persistence layers for efficient platform development.
