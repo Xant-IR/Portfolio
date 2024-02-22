@@ -38,11 +38,13 @@ The Batalent Startup Platform is a comprehensive online platform aimed at introd
 
 - **Contact Requests:** Users can initiate contact requests directly from business pages, choosing between standard or high-priority options. Submissions trigger SMS notifications for prompt response.
 
+- **Dynamic Blog Posts:** Engineered flexible blogging capabilities tailored specifically for creating, managing, and interacting with blog posts, supporting categories, comments, and tags for enhanced user engagement and content organization.
+
 - **Website Statistics:** Detailed website statistics, including user IPs, visited paths, browsers, and countries, along with business-specific visit statistics, are available for comprehensive analysis in the admin panel.
 
 - **Additional Key Features:**
   - Developed a fully functional media gallery using JavaScript and API backend to upload and load different file types in the panels with the option to integrate media gallery to input files and CKEditor.
-
+  - Utilized OpenLayers map to display business company locations, enhancing user navigation and project visibility.
 
 ## Key Highlights
 
