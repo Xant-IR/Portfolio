@@ -124,3 +124,48 @@ The Build&Enjoy Startup Platform is developed using the following technologies:
 ## Screenshots
 
 Here are some screenshots of the Batalent Startup Platform:
+
+1. **Main Page - Frontend**<br/>
+  <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-main.png"/>
+
+2. **Single Business Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-businesses-single.png"/>
+
+3. **Single Renovation Project Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-projects-single.png"/>
+
+4. **Renovation Planning Form Step 1 - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-renovation-planning-form-1.png"/>
+
+5. **Renovation Planning Form Step 2 - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-renovation-planning-form-2.png"/>
+
+6. **Renovation Planning Form Step 3 - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-renovation-planning-form-3.png"/>
+
+7. **Project Offer Form - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-offer.png"/>
+   
+8. **Checkout Page - Frontend**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/front-checkout.png"/>
+
+9. **Dashboard - Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/admin-panel-dashboard.png"/>
+
+10. **Subscription Edit View- Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/admin-panel-subscription-edit.png"/>
+
+11. **Subscription Discount View- Admin Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/admin-panel-discount-add.png"/>
+
+12. **Dashboard - Business Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/business-panel-dashboard.png"/>
+
+13. **Report View - Business Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/business-panel-report-add.png"/>
+
+14. **Dashboard - Client Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/client-panel-dashboard.png"/>
+
+15. **Offer View - Client Panel**<br/>
+   <img src="https://github.com/Xant-IR/Portfolio/blob/main/03.WebApplications/09.BuildAndEnjoyStartupPlatform/screenshots/client-panel-offer.png"/>
