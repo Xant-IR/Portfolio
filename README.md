@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! This repository showcases some of the projects I've worked on, organized into different categories.
+Welcome to my portfolio! This repository showcases some of the projects I've worked on, organized into different categories. All projects included in this portfolio were developed during my tenure at XANT.
 
 ## Categories
 
@@ -37,6 +37,20 @@ Welcome to my portfolio! This repository showcases some of the projects I've wor
 
 - Click on the project names to explore projects within each category.
 - Each project link will take you to its respective folder with detailed information.
+
+## Experience with XANT
+
+During my time at XANT, I had the opportunity to work on several impactful projects, contributing to the growth and success of the business. Here are some key highlights of my experience:
+
+- **Software Solutions for Startups:** Designed and implemented software solutions for Build&Enjoy and Batalent startups, resulting in a remarkable boost in operational efficiency.
+  
+- **Client Collaboration:** Collaborated closely with business clients to gather and document unique requirements, generating detailed functional and technical specifications for seamless alignment between business goals and technical implementation.
+  
+- **Content Management Systems:** Developed custom Content Management Systems, enhancing content delivery and elevating user experience by an impressive margin.
+  
+- **Quality Assurance:** Conducted Unit Testing and Integration Testing of Software, resulting in fewer bugs and defects, ensuring high-quality deliverables.
+  
+- **Documentation and Optimization:** Authored comprehensive technical documents, optimized code, and resolved support-raised issues, improving overall customer satisfaction and application performance.
 
 ## Thank You!
 
