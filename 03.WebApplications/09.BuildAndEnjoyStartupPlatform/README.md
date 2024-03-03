@@ -121,6 +121,14 @@ The Build&Enjoy Startup Platform is developed using the following technologies:
    - CKEditor
    - Font Awesome
 
+## Advanced SQL Queries
+
+In addition to the technologies mentioned, the Build&Enjoy Startup Platform also leverages advanced SQL techniques to enhance data retrieval and organization. Specifically, the project utilizes Common Table Expressions (CTEs) to retrieve business categories and organize post categories hierarchically.
+
+CTEs provide a powerful way to define temporary result sets within SQL queries, enabling complex data manipulations and hierarchical data structures. By employing CTEs, the platform efficiently retrieves and presents business categories and post categories in a structured manner, optimizing performance and usability.
+
+These advanced SQL queries contribute to the platform's robust functionality and streamlined user experience, showcasing a commitment to utilizing cutting-edge techniques for data management and presentation.
+
 ## Screenshots
 
 Here are some screenshots of the Batalent Startup Platform:
