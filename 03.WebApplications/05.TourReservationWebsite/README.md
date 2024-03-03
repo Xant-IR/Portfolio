@@ -19,7 +19,7 @@ The Tour Reservation Website is a digital platform developed to simplify tour bo
 - Developed a bilingual travel agency website to facilitate easy tour reservation and management.
 - Enabled seamless organization and booking of diverse travel and leisure tours.
 - Implemented multilingual support for seamless navigation and accessibility in diverse markets.
-•- Ensured secure online payments and refunds for customer satisfaction.
+- Ensured secure online payments and refunds for customer satisfaction.
 
 ## Software Architecture
 
